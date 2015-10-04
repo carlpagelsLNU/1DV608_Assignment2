@@ -15,4 +15,4 @@ https://github.com/dntoll/1DV608/blob/master/Assignments/Assignment_2/Assignment
 #### TODO
 Finished, register function added in 1DV608_Assignment4
 #### Live website
-cp222ep.comyr.com
+www.cp222ep.comyr.com
